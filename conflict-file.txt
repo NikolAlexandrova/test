@@ -1,1 +1,1 @@
-Feature branch changes
+Local branch conflicting changes
